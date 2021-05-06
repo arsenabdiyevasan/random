@@ -5,3 +5,10 @@ body{
     justify-content: center;
     text-align: center;
 }
+.inputs{
+    display: flex;
+    flex-direction: column;
+}
+.bg{
+    background-color: rgb(87, 9, 160);
+}
